@@ -29,7 +29,7 @@
   grid-column: span 2;
 }
 
-big {
+.big {
   grid-row: span 2;
   grid-column: span 2;
 }
