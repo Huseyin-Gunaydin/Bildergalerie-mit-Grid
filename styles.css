@@ -3,11 +3,14 @@
   margin: 0;
   box-sizing: border-box;
 }
+body{
+  background-color: black;
+}
 .container {
   padding: 10px;
   max-width: 1200px;
   margin: 0 auto;
-  background: #f0ecec;
+  background: black;
   display: grid;
   gap: 10px;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
