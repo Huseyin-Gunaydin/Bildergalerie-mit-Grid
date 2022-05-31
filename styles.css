@@ -43,11 +43,12 @@
     grid-column: span 1;
   }
 
-  big {
+  .big {
     grid-row: span 1;
     grid-column: span 1;
   }
 }
+
 
 .container div {
   display: flex;
@@ -68,7 +69,6 @@
   opacity: 0.8;
   display: none;
 }
-
 .container div:hover a {
   display: block;
   font-size: 3rem;
